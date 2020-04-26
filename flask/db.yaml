@@ -1,0 +1,5 @@
+mysql_host: 'constantine9313.mysql.pythonanywhere-services.com'
+mysql_user: 'constantine9313'
+mysql_password: '*******'
+#my regular password
+mysql_db: 'constantine9313$flask'
